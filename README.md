@@ -32,6 +32,7 @@ fast, and maintainable automated coverage.
 - Version: 4.1.0.3
 - Environment: Local (XAMPP)
 - OS: Windows 11
+- Browsers: Chrome, Firefox, Edge
 - User role: Admin
 
 ---
